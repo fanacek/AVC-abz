@@ -1,4 +1,4 @@
-# Automatic-Verb-Classifier-for-Abui-AVC-abz-
+# Automatic Verb Classifier for Abui (AVC-abz)
 This repository contains the R code used in the Automatic Verb Classifier for Abui. 
 It is a clustering tool allowing to explore the verbal inflectional classes in Abui (Glottolog code: abui1241; Glottolog profile: https://glottolog.org/resource/languoid/id/abui1241). The system uses a manually created learning set with inflectional profiles Abui verbs as data for a k-means clustering algorithm. The clustering is subsequently compared with the corpus data, harvested using the Matrix ODIN Morphology (MOM) tool, as described in Zamaraeva et al. 2017. 
 
